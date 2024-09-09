@@ -1,5 +1,5 @@
 ** PURPOSE:
-Comparing to sql schemas. 
+Comparing two sql schemas. 
 But there might be hundreds of diffs you don't want to see.
 So this mini tool removes lines that start with a predefined set of strings.
 And then opens a code diff.
